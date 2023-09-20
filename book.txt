@@ -1,0 +1,5 @@
+1. Чистый код. Роберт Мартин.
+2. Terraform. Евгений Брикман.
+3. Запускаем Ansible. Лорин Хоштейн.
+4. The art of Urban Sketching. Gabriel Campanario.
+5. While Mortals Sleep. Kurt Vonnegut.
